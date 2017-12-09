@@ -1,0 +1,12 @@
+{
+  "name": "rlstats",
+  "version": "1.0.0",
+  "description": "Discord bot for Rocket League stats'",
+  "main": "rlstats.js",
+  "author": "PunkSheep",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "rls-api": "^1.1.0",
+    "winston": "^2.4.0"
+  }
+}
